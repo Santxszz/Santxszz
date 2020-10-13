@@ -9,4 +9,4 @@
 <br>
 <br>
 <br>
-<footer align=center> Santxs. '' Lowz. '' 7th.  </footer>
+<h5 align=center> Santxs. '' Lowz. '' 7th.  </h5>
