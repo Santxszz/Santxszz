@@ -7,6 +7,4 @@
 <p align=center>Você não pode desistir antes de tentar. Tente se não der certo "Tente Novamente Mais Tarde".</p>
  <hr>
 <br>
-<br>
-<br>
 <h5 align=center> Santxs. '' Lowz. '' 7th.  </h5>
