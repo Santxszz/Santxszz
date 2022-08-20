@@ -1,22 +1,19 @@
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Student of Analys and Development of Systems
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- ▶️ 
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- 💬 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- ⚡ 
 
-- ⚡ Fun fact **Oneye 😜**
+- 👨‍💻 
 
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
-
-<!--
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+[JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -36,7 +33,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
--->
+
 
 <br><br>
 
