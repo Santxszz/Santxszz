@@ -23,16 +23,3 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santxszz&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
-
-<br><br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://instagram.com/santxszz_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/santxszz" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>
