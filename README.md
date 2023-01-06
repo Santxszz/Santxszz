@@ -1,4 +1,4 @@
-## Erek C. Santxsz, Prazer!
+## Hi 👋 My name is Erek
 
 - Student of Python and Javascript.
 - Systems Analyst and Developer.
