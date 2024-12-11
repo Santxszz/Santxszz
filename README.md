@@ -3,7 +3,7 @@
 
 - 😊 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no Instituto Federal de Goiás.
-- 💼 Estagiando como Desenvolvedor Back End na **Compass UOL**.
+- 💼 Atuando como freelancer.
 - 🌱 Aprendendo mais sobre TypeScript, AWS, JavaScript, React, Mobile.
 
 ## Minhas Skills
